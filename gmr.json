@@ -1,6 +1,6 @@
 {
   "title": "Girl Meets Rock!",
-  "description": "With a passion for richly textured Japanese rock, first-year high school student Chihiro Hatono steps into the world of the light music club, new guitar in tow. But what awaits her behind those doors...? A drama of unfiltered youth and musical ambition takes the stage!",
+  "description": "With a passion for richly textured Japanese rock, first-year high school student Chihiro Hatono steps into the world of the light music club, new guitar in tow. But what awaits her behind those doors...? A drama of unfiltered youth and musical ambition takes the stage!\n\nVolume extras translated by Heartbreak Scans.",
   "artist": "Tetsuo Ideuchi",
   "author": "Kuwahali",
   "cover": "https://mangadex.org/covers/7b727ae2-2842-4c46-af8b-9162b7806659/e4b36289-bae8-48b2-92d0-b26f1e1f99e8.jpg",
@@ -99,6 +99,150 @@
       "last_updated": "1733595879",
       "groups": {
         "MangaPlus": "/proxy/api/imgur/chapter/hd12mpW"
+      }
+    },
+    "13": {
+      "title": "Let's Go Our Separate Ways",
+      "volume": "2",
+      "last_updated": "1733596181",
+      "groups": {
+        "MangaPlus": "/proxy/api/imgur/chapter/X7zll6t"
+      }
+    },
+    "14": {
+      "title": "Let's Form a Makeshift Band",
+      "volume": "2",
+      "last_updated": "1733596335",
+      "groups": {
+        "MangaPlus": "/proxy/api/imgur/chapter/p5zq1zO"
+      }
+    },
+    "15": {
+      "title": "Let's Make Our Debut Performance",
+      "volume": "2",
+      "last_updated": "1733596746",
+      "groups": {
+        "MangaPlus": "/proxy/api/imgur/chapter/IpunQSk"
+      }
+    },
+    "16": {
+      "title": "Let's Become a Vocalist",
+      "volume": "2",
+      "last_updated": "1733598625",
+      "groups": {
+        "MangaPlus": "/proxy/api/imgur/chapter/Vpmi8ve"
+      }
+    },
+    "17": {
+      "title": "Let's Train to Sing and Play",
+      "volume": "2",
+      "last_updated": "1733602695",
+      "groups": {
+        "MangaPlus": "/proxy/api/imgur/chapter/ElktV2W"
+      }
+    },
+    "18": {
+      "title": "Let's Set Up a Landmine",
+      "volume": "2",
+      "last_updated": "1733603350",
+      "groups": {
+        "MangaPlus": "/proxy/api/imgur/chapter/JPaSjjY"
+      }
+    },
+    "19": {
+      "title": "Let's See the Wider World",
+      "volume": "2",
+      "last_updated": "1733603621",
+      "groups": {
+        "MangaPlus": "/proxy/api/imgur/chapter/wXnvWsL"
+      }
+    },
+    "20": {
+      "title": "Let's Do Some Projecting",
+      "volume": "2",
+      "last_updated": "1733603781",
+      "groups": {
+        "MangaPlus": "/proxy/api/imgur/chapter/fs3j7lx"
+      }
+    },
+    "21": {
+      "title": "Let's Talk About Our Breakup",
+      "volume": "2",
+      "last_updated": "1733603989",
+      "groups": {
+        "MangaPlus": "/proxy/api/imgur/chapter/RICimtJ"
+      }
+    },
+    "22": {
+      "title": "Let's Start the Second Semester",
+      "volume": "3",
+      "last_updated": "1733606367",
+      "groups": {
+        "MangaPlus": "/proxy/api/imgur/chapter/0mPcENy"
+      }
+    },
+    "23": {
+      "title": "Let's Get Into an Argument",
+      "volume": "3",
+      "last_updated": "1733606408",
+      "groups": {
+        "MangaPlus": "/proxy/api/imgur/chapter/EaDRUme"
+      }
+    },
+    "24": {
+      "title": "Let's Move Forward",
+      "volume": "3",
+      "last_updated": "1733606662",
+      "groups": {
+        "MangaPlus": "/proxy/api/imgur/chapter/h1pLpqp"
+      }
+    },
+    "25": {
+      "title": "Let's Form a Band",
+      "volume": "3",
+      "last_updated": "1733606775",
+      "groups": {
+        "MangaPlus": "/proxy/api/imgur/chapter/8oOXg4S"
+      }
+    },
+    "26": {
+      "title": "Let's Name Our Band",
+      "volume": "3",
+      "last_updated": "1733607376",
+      "groups": {
+        "MangaPlus": "/proxy/api/imgur/chapter/FV4jepP"
+      }
+    },
+    "27": {
+      "title": "Let's Cook Up a Plan",
+      "volume": "3",
+      "last_updated": "1733607658",
+      "groups": {
+        "MangaPlus": "/proxy/api/imgur/chapter/TI1MwMK"
+      }
+    },
+    "28": {
+      "title": "Let's Make a New Friend",
+      "volume": "3",
+      "last_updated": "1733607817",
+      "groups": {
+        "MangaPlus + Driver": "/proxy/api/imgur/chapter/GnoXxRO"
+      }
+    },
+    "12.5": {
+      "title": "Let's Make a Friend",
+      "volume": "1",
+      "last_updated": "1733596058",
+      "groups": {
+        "Heartbreak Scans": "/proxy/api/imgur/chapter/bCWZFgs"
+      }
+    },
+    "21.5": {
+      "title": "Let's Dream of Cicadas",
+      "volume": "2",
+      "last_updated": "1733604535",
+      "groups": {
+        "Heartbreak Scans": "/proxy/api/imgur/chapter/hBk4AQi"
       }
     }
   }
