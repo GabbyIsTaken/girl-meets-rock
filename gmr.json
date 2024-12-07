@@ -66,7 +66,39 @@
       "volume": "1",
       "last_updated": "1733593266",
       "groups": {
-        "MangaPlus": ""
+        "MangaPlus": "/proxy/api/imgur/chapter/vzBzEgd"
+      }
+    },
+    "9": {
+      "title": "Let the Friction Build",
+      "volume": "1",
+      "last_updated": "1733594411",
+      "groups": {
+        "MangaPlus": "/proxy/api/imgur/chapter/nr9gmVY"
+      }
+    },
+    "10": {
+      "title": "Let's Get to Know Our Friends",
+      "volume": "1",
+      "last_updated": "1733595695",
+      "groups": {
+        "MangaPlus": "/proxy/api/imgur/chapter/KmpEHHH"
+      }
+    },
+    "11": {
+      "title": "Let's Survive the Sports Festival",
+      "volume": "1",
+      "last_updated": "1733595789",
+      "groups": {
+        "MangaPlus": "/proxy/api/imgur/chapter/Q726t3Q"
+      }
+    },
+    "12": {
+      "title": "Let's Disband",
+      "volume": "1",
+      "last_updated": "1733595879",
+      "groups": {
+        "MangaPlus": "/proxy/api/imgur/chapter/hd12mpW"
       }
     }
   }
