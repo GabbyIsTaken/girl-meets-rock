@@ -229,6 +229,158 @@
         "MangaPlus + Driver": "/proxy/api/imgur/chapter/GnoXxRO"
       }
     },
+    "29": {
+      "title": "Let's Have Our First Practice Session",
+      "volume": "3",
+      "last_updated": "1733609150",
+      "groups": {
+        "MangaPlus": "/proxy/api/imgur/chapter/AdVP8ph"
+      }
+    },
+    "30": {
+      "title": "Let's Reunite with Dad",
+      "volume": "3",
+      "last_updated": "1733609338",
+      "groups": {
+        "MangaPlus": "/proxy/api/imgur/chapter/jqwYR7c"
+      }
+    },
+    "31": {
+      "title": "Let's Welcome Back Yonsu",
+      "volume": "4",
+      "last_updated": "1733611576",
+      "groups": {
+        "MangaPlus": "/proxy/api/imgur/chapter/FauW8AR"
+      }
+    },
+    "32": {
+      "title": "Let's Get Ready for the School Festival",
+      "volume": "4",
+      "last_updated": "1733612033",
+      "groups": {
+        "Heartbreak Scans": "/proxy/api/imgur/chapter/5A80nap"
+      }
+    },
+    "33": {
+      "title": "Let's Secure a Performance Spot",
+      "volume": "4",
+      "last_updated": "1733612194",
+      "groups": {
+        "Heartbreak Scans": "/proxy/api/imgur/chapter/tYQUAMJ"
+      }
+    },
+    "34": {
+      "title": "Let's Enter the Studio",
+      "volume": "4",
+      "last_updated": "1733612281",
+      "groups": {
+        "Heartbreak Scans": "/proxy/api/imgur/chapter/pX7Qwtw"
+      }
+    },
+    "35": {
+      "title": "Let's Begin the School Festival",
+      "volume": "4",
+      "last_updated": "1733612393",
+      "groups": {
+        "Heartbreak Scans": "/proxy/api/imgur/chapter/cbkzK9M"
+      }
+    },
+    "36": {
+      "title": "Let's Take the Stage",
+      "volume": "4",
+      "last_updated": "1733612667",
+      "groups": {
+        "Heartbreak Scans": "/proxy/api/imgur/chapter/2gCv16H"
+      }
+    },
+    "37": {
+      "title": "Let's Acknowledge the Band",
+      "volume": "4",
+      "last_updated": "1733614047",
+      "groups": {
+        "Heartbreak Scans": "/proxy/api/imgur/chapter/i8OSpu1"
+      }
+    },
+    "38": {
+      "title": "Let's Meet that Girl",
+      "volume": "4",
+      "last_updated": "1733614244",
+      "groups": {
+        "Heartbreak Scans": "/proxy/api/imgur/chapter/3gHI9H2"
+      }
+    },
+    "39": {
+      "title": "Let's Watch Reiha Run Wild",
+      "volume": "4",
+      "last_updated": "1733614741",
+      "groups": {
+        "Heartbreak Scans": "/proxy/api/imgur/chapter/fNmoTsk"
+      }
+    },
+    "40": {
+      "title": "Let's Show Our Hand",
+      "volume": "",
+      "last_updated": "1733615006",
+      "groups": {
+        "Heartbreak Scans": "/proxy/api/imgur/chapter/X1g4lSm"
+      }
+    },
+    "41": {
+      "title": "Let's Remember Those Shining Days",
+      "volume": "",
+      "last_updated": "1733616219",
+      "groups": {
+        "Heartbreak Scans": "/proxy/api/imgur/chapter/kK1KhCU"
+      }
+    },
+    "42": {
+      "title": "Let's Put a Damper on Those Shining Days",
+      "volume": "",
+      "last_updated": "1733616306",
+      "groups": {
+        "Heartbreak Scans": "/proxy/api/imgur/chapter/jJLLtNA"
+      }
+    },
+    "43": {
+      "title": "Let's Run Through Those Shining Days",
+      "volume": "",
+      "last_updated": "1733616657",
+      "groups": {
+        "Heartbreak Scans": "/proxy/api/imgur/chapter/8MztS69"
+      }
+    },
+    "44": {
+      "title": "Let's Scream About Those Shining Days",
+      "volume": "",
+      "last_updated": "1733617266",
+      "groups": {
+        "Heartbreak Scans": "/proxy/api/imgur/chapter/ljxvSRn"
+      }
+    },
+    "45": {
+      "title": "Let's Dream of that Stage",
+      "volume": "",
+      "last_updated": "1733617340",
+      "groups": {
+        "Heartbreak Scans": "/proxy/api/imgur/chapter/Bm24DLR"
+      }
+    },
+    "46": {
+      "title": "Let's Establish a New Regime",
+      "volume": "",
+      "last_updated": "1733618026",
+      "groups": {
+        "MangaPlus": "/proxy/api/imgur/chapter/czYWp02"
+      }
+    },
+    "47": {
+      "title": "Let's Shake Up This Meeting",
+      "volume": "",
+      "last_updated": "1733618283",
+      "groups": {
+        "MangaPlus": "/proxy/api/imgur/chapter/x0PfYfQ"
+      }
+    },
     "12.5": {
       "title": "Let's Make a Friend",
       "volume": "1",
@@ -243,6 +395,22 @@
       "last_updated": "1733604535",
       "groups": {
         "Heartbreak Scans": "/proxy/api/imgur/chapter/hBk4AQi"
+      }
+    },
+    "30.5": {
+      "title": "Let's Listen to Gen Tohno's Thoughts",
+      "volume": "3",
+      "last_updated": "1733611410",
+      "groups": {
+        "Heartbreak Scans": "/proxy/api/imgur/chapter/odYypAC"
+      }
+    },
+    "40.5": {
+      "title": "Let's Look at Momo Uchida's School Festival",
+      "volume": "",
+      "last_updated": "1733616164",
+      "groups": {
+        "Heartbreak Scans": "/proxy/api/imgur/chapter/4r8X1xu"
       }
     }
   }
